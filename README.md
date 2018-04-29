@@ -5,7 +5,7 @@
 1. WAP to write and display data in file. (File handling)
 2. WAP to compress and decompress text using Run Length encoding.
 3. WAP for text compression by Static Huffman coding.
-4. WAP for text compression by Dynamic Hussman coding.
+4. WAP for text compression by Dynamic Huffman coding.
 5. WAP for text compression by Arithmetic coding.
 6. WAP for text compression by LZW compression technique.
 7. WAP to create a keyboard piano.
