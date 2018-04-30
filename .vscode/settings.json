@@ -5,6 +5,7 @@
     "bitset": "cpp",
     "chrono": "cpp",
     "tuple": "cpp",
-    "*.tcc": "cpp"
+    "*.tcc": "cpp",
+    "ostream": "cpp"
   }
 }
